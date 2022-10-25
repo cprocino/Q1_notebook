@@ -18,6 +18,10 @@ this is the note book for the first quarter of DE Engeneering 3
 * [Pullcopter](#pullcopter)
 * [cilinder](#cilinder)
 
+### Q1 reflection
+* [reflection](#reflection)
+
+
 ## CircuitPython_Servo
 
 ### for this project we just needed to make a servo turn  using python
@@ -250,5 +254,16 @@ Here are some pictures from various different final pieces
 ![Screenshot 2022-10-20 151917](https://user-images.githubusercontent.com/71406784/197039309-ab076236-4df8-412e-a40a-db3ead918f97.png)
 
 the problems of this for me was mainly procrastination as i had the skills to do every thing but it looked imposing to start. Next time i will just start and go.
+
+
+
+
+
+
+# reflection
+This was the first quarter of Engineering 3 and it was much harder than previous years but i have grown with the challange and would have liked to tell myself in the beggining of this class to not procrastinate and to just start the work.
+
+
+
 
 
