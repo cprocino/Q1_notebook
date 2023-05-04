@@ -56,7 +56,7 @@ while True:
 
 ### Reflection
 
-I didnt have any real problems this project, just had to set up all the wires and the servo in code
+I didnt have any real problems this project, just had to set up all the wires and the servo in code. This project was designed to be simple and it was. Simplicity aside using servos is an important thing in engineering and will set me up fo success in the future if i leverage it correctly. 
 
 
 
@@ -139,7 +139,7 @@ https://user-images.githubusercontent.com/71406784/191340307-837a51d7-b6ea-4963-
  
 ### Reflection
 
-This project took focus and time to complete and the consistant problem of getting the correct file to the right place in my computer. the code for this is long but not overly complex. I would in the future write my code better and study the concepts of loops and color theor a bit more. 
+This project took focus and time to complete and the consistant problem of getting the correct file to the right place in my computer. The code for this is long but not overly complex. I would in the future write my code better and study the concepts of loops and color theor a bit more. 
 
 
 
@@ -185,7 +185,7 @@ while True: # basic while loop
 ![increment-decrement-counter-arduino-1024x585](https://user-images.githubusercontent.com/71406784/192609663-81f87442-9b0f-44db-a81c-4deeca209c86.png)
 
 ### Reflection
-this wasnt too hard as i have done it before but i want to thank Anton for help on the code. i have already done a reflection on this last year.
+this wasnt too hard as i have done it before but i want to thank Anton for help on the code. i have already done a reflection on this last year, nut i will restate it here. This project is made to make us use lcds and buttons work together, as this was my final project last year it was easy for me. 
 
 
 
@@ -239,7 +239,7 @@ here is the prop:
 
 ### reflection
 This wasnt to hard of a project because it wasn't a ton of work of especially difficult.The trick was team work and prexisting cad knowledge.
-here is the document we worked on:https://cvilleschools.onshape.com/documents/c21ea5d854d718a86e6eb309/w/f28e1c984dc3fe65682f78f2/e/60f084a7ede173a9bd13a529
+here is the document we worked on:https://cvilleschools.onshape.com/documents/c21ea5d854d718a86e6eb309/w/f28e1c984dc3fe65682f78f2/e/60f084a7ede173a9bd13a529. this did allow me and nixon to start working together and work on colaboration skills on a complex project.
 
 
 # cilinder
