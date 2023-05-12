@@ -215,7 +215,7 @@ this wasnt too hard as i have done it before but i want to thank Anton for help 
 
 ## motorcontrol
 
-
+This was another on of the starter projects designed to get us used to working with the new boards. The goal was to control a motor with the new board and using the new code. 
 
 
 
