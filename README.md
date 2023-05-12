@@ -27,7 +27,8 @@ this was the first project of the year and as such was extremely easy. The goal 
 
 here is a video of it working:
 
-Download WIN_20220909_15_52_34_Pro.mp4
+Download WIN_20220909_15_52_34_Pro.mp4 or if that doesn't work here is a a link to it:
+file:///C:/Users/cprocin27/Downloads/WIN_20220909_15_52_34_Pro.mp4
 
 we were given the code for this but here it is anyways:
 
