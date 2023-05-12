@@ -7,7 +7,7 @@ this is the note book for the first quarter of DE Engeneering 3
 
 ### code and circuits
 
-* [circuitPython](#CircuitPython)
+* [hellocircuitPython](#CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_sensor](#CircuitPython_sensor)
 * [ButtonCounter_LCD](#ButtonCounter_LCD)
@@ -21,6 +21,15 @@ this is the note book for the first quarter of DE Engeneering 3
 ### Q1 reflection
 * [reflection](#reflection_Q1)
 
+
+##  hellocircuitPython
+this was the first project of the year and as such was extremely easy. The goal of the project was to make our new boards led blink. the code for this was extremely easy and because there was only the board there is no wiring diagram worth sharing. 
+
+here is a video of it working:
+
+Download WIN_20220909_15_52_34_Pro.mp4
+
+this project was remarkably easy and i doubt that it took more than a class period to complete. It was designed to give a start on the new circuit board and it achieved its goal for me. 
 
 ## CircuitPython_Servo
 
