@@ -11,6 +11,8 @@ this is the note book for the first quarter of DE Engeneering 3
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_sensor](#CircuitPython_sensor)
 * [ButtonCounter_LCD](#ButtonCounter_LCD)
+* [motorcontrol](#motorcontrol)
+
 ---
 
 ### cad
@@ -209,6 +211,9 @@ while True: # basic while loop
 
 ### Reflection
 this wasnt too hard as i have done it before but i want to thank Anton for help on the code. i have already done a reflection on this last year, nut i will restate it here. This project is made to make us use lcds and buttons work together, as this was my final project last year it was easy for me. 
+
+
+## motorcontrol
 
 
 
