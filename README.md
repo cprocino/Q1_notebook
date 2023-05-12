@@ -29,6 +29,19 @@ here is a video of it working:
 
 Download WIN_20220909_15_52_34_Pro.mp4
 
+we were given the code for this but here it is anyways:
+
+    import board
+    import neopixel
+
+    dot = neopixel.NeoPixel(board.NEOPIXEL, 1)
+    dot.brightness = 0.5 
+
+    print("Make it red!")
+
+    while True:
+      dot.fill((0, 0, 255))
+
 this project was remarkably easy and i doubt that it took more than a class period to complete. It was designed to give a start on the new circuit board and it achieved its goal for me. 
 
 ## CircuitPython_Servo
