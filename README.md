@@ -8,7 +8,7 @@ this is the note book for the first quarter of DE Engeneering 3
 
 ### code and circuits 
 
-* [hellocircuitPython](#CircuitPython)
+* [hellocircuitPython](#hellocircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
 * [CircuitPython_sensor](#CircuitPython_sensor)
 * [ButtonCounter_LCD](#ButtonCounter_LCD)
