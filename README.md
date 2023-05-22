@@ -1,6 +1,6 @@
 # Q1 notebook
 this is the note book for the first quarter of DE Engeneering 3
-# special shoutout to [shrey](https://github.com/shrey45) for being super chill
+###### special shoutout to [shrey](https://github.com/shrey45) for being super chill
 
 
 
