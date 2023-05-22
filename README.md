@@ -6,7 +6,7 @@ this is the note book for the first quarter of DE Engeneering 3
 
 ## projects 
 
-### code and circuits
+### code and circuits 
 
 * [hellocircuitPython](#CircuitPython)
 * [CircuitPython_Servo](#CircuitPython_Servo)
