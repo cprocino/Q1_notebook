@@ -217,6 +217,34 @@ this wasnt too hard as i have done it before but i want to thank Anton for help 
 ## motorcontrol
 
 This was another on of the starter projects designed to get us used to working with the new boards. The goal was to control a motor with the new board and using the new code. 
+ 
+ ### code
+ Here is my code, I have gotten help from Gram as i had to redo this assignment in a short time frame
+    import time
+    from time import sleep
+    import board
+    import simpleio
+    from analogio import AnalogIn 
+    import pwmio  
+
+    analog_in = AnalogIn(board.A1) #potentionmeter pin
+    pin_out = pwmio.PWMOut(board.D8,duty_cycle=65535,frequency=5000)
+
+    while True:
+
+    sensor_value = analog_in.value
+     mapped_value = int(simpleio.map_range(sensor_value, 0, 65535, 0, 255))
+  
+     pin_out.duty_cycle = sensor_value
+      print("mapped sensor value: ", sensor_value)
+      
+ 
+ ### wiring
+![Screenshot 2023-05-24 133050](https://github.com/cprocino/Q1_notebook/assets/71406784/a4902e72-6f20-4983-b44e-a53b662b2d98)
+
+ 
+ ### reflection
+ this one i had done earlier in the year but had forgotten or misplaced my documentation for. I was not very hard but was the most difficult assighnment of the first quarter.
 
 
 
